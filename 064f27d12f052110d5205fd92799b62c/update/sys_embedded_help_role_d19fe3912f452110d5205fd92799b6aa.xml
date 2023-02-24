@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_852301_innovatet.employee" name="x_852301_innovatet.employee">519fe3912f452110d5205fd92799b6a8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 19:47:19</sys_created_on>
+        <sys_id>d19fe3912f452110d5205fd92799b6aa</sys_id>
+        <sys_name>519fe3912f452110d5205fd92799b6a8</sys_name>
+        <sys_package display_value="InnovateTokyo" source="x_852301_innovatet">064f27d12f052110d5205fd92799b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InnovateTokyo">064f27d12f052110d5205fd92799b62c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d19fe3912f452110d5205fd92799b6aa</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

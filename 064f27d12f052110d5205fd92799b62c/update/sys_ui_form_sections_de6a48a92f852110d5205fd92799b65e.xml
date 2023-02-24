@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="de6a48a92f852110d5205fd92799b65e" sys_domain="global" table="x_852301_innovatet_innovatetokyo" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>266a48a92f852110d5205fd92799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_852301_innovatet_innovatetokyo" name="x_852301_innovatet_innovatetokyo" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">de6a48a92f852110d5205fd92799b65e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_852301_innovatet_innovatetokyo" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5a6a48a92f852110d5205fd92799b65d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 21:44:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee6a48a92f852110d5205fd92799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_852301_innovatet_innovatetokyo" name="x_852301_innovatet_innovatetokyo" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">de6a48a92f852110d5205fd92799b65e</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_852301_innovatet_innovatetokyo" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">926a48a92f852110d5205fd92799b65e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 21:44:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_852301_innovatet_innovatetokyo</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de6a48a92f852110d5205fd92799b65e</sys_id>
+            <sys_name>x_852301_innovatet_innovatetokyo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="InnovateTokyo" source="x_852301_innovatet">064f27d12f052110d5205fd92799b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InnovateTokyo">064f27d12f052110d5205fd92799b62c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_de6a48a92f852110d5205fd92799b65e</sys_update_name>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

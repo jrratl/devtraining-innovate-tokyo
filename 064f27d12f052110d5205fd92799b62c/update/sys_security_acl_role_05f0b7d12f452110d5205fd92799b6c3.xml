@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 19:53:18</sys_created_on>
+        <sys_id>05f0b7d12f452110d5205fd92799b6c3</sys_id>
+        <sys_name>x_852301_innovatet_innovatetokyo.x_852301_innovatet.employee</sys_name>
+        <sys_package display_value="InnovateTokyo" source="x_852301_innovatet">064f27d12f052110d5205fd92799b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InnovateTokyo">064f27d12f052110d5205fd92799b62c</sys_scope>
+        <sys_security_acl display_value="x_852301_innovatet_innovatetokyo">81f0b7d12f452110d5205fd92799b6c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_05f0b7d12f452110d5205fd92799b6c3</sys_update_name>
+        <sys_user_role display_value="x_852301_innovatet.employee" name="x_852301_innovatet.employee">519fe3912f452110d5205fd92799b6a8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
